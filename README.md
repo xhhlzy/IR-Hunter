@@ -21,7 +21,12 @@ The dataset includes 10,242 samples from version 1.0 and 10,336 samples from ver
 ![Dataset imformation](./picture/Dataset.png)
 
 ## Example Usage
-
+Before using the code, you need to modify the `IR-Hunter/utils/configs.py` file to match the file paths on your local machine.
 ### Train
-
+```bash
+python train.py --task Hunter --save_path work_dir/Hunter/
+```
 ### Test
+```bash
+python test.py --task Hunter --pretrained PRETRAINED_WEIGHTS_PATH --save_path work_dir/Hunter/ --plot_roc
+```
