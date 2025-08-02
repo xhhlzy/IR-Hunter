@@ -1,5 +1,7 @@
 ## Overview
-This repository is intended to host the code and demos for IR-Hunter, aiming to help users reproduce our results through the provided implementation.IR-Hunter is designed to improve IR-Drop prediction accuracy by innovatively leveraging techniques that have not been previously applied in this domain.
+This repository is intended to host the code and demos for IR-Hunter, aiming to help users reproduce our results through the provided implementation.
+
+IR-Hunter is designed to improve IR-Drop prediction accuracy by innovatively leveraging techniques that have not been previously applied in this domain.
 <img src="./picture/overview.png" width="450" height="350"/>
 
 ## Prerequisites
