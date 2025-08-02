@@ -20,6 +20,8 @@ The dataset includes 10,242 samples from version 1.0 and 10,336 samples from ver
 
 ![Dataset imformation](./picture/Dataset.png)
 
+The preprocessed dataset files are available at the following link.
+
 ## Example Usage
 Before using the code, you need to modify the `IR-Hunter/utils/configs.py` file to match the file paths on your local machine.
 ### Train
