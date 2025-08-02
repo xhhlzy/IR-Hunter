@@ -1,6 +1,6 @@
 ## Overview
 
-<img src="./picture/overview.png" style="zoom:30%;" />
+<img src="./picture/overview.png" alt="Model Diagram" width="400" height="300"/>
 
 ## Prerequisites
 Dependencies can be installed using pip:
