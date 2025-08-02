@@ -32,3 +32,8 @@ python train.py --task Hunter --save_path work_dir/Hunter/
 ```bash
 python test.py --task Hunter --pretrained PRETRAINED_WEIGHTS_PATH --save_path work_dir/Hunter/ --plot_roc
 ```
+## Result
+To better visualize the prediction results, you can use the `IR-Hunter/ReadNumpy.py` file to display your outputs.
+```bash
+python ReadNumpy.py
+```
