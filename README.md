@@ -1,6 +1,7 @@
 ## Overview
 
-![Dataset imformation](./picture/overview.png)
+<img src="./picture/overview.png" style="zoom:50%;" />
+
 ## Prerequisites
 Dependencies can be installed using pip:
 
