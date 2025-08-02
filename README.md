@@ -1,4 +1,6 @@
 ## Overview
+
+![Dataset imformation](./picture/overview.png)
 ## Prerequisites
 Dependencies can be installed using pip:
 
