@@ -7,8 +7,6 @@ Dependencies can be installed using pip:
 pip install -r requirements.txt
 ```
 
-PyTorch is not included in requirements.txt, and you could install it following the instruction on PyTorch homepage https://pytorch.org/.
+PyTorch is not listed in the requirements.txt file. You can install it by following the official instructions provided on the PyTorch website.
 
-DGL is also not included in requirements.txt, and it is required for net delay prediction only. You could install it following the instruction on DGL homepage https://www.dgl.ai/pages/start.html.
-
-Our experiments run on Python 3.9 and PyTorch 1.11. Other versions should work but are not tested.
+Our experiments were conducted using Python 3.9 and PyTorch 1.11. Although other versions are likely to work, they haven't been verified.
