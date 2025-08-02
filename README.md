@@ -1,6 +1,6 @@
 ## Overview
 
-<img src="./picture/overview.png" style="zoom:50%;" />
+<img src="./picture/overview.png" style="zoom:30%;" />
 
 ## Prerequisites
 Dependencies can be installed using pip:
