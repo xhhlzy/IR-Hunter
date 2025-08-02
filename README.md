@@ -12,4 +12,4 @@ Our experiments were conducted using Python 3.9 and PyTorch 1.11. Although other
 
 ## Datasets
 
-![Image text](http://github.com/xhhlzy/IR-Hunter/blob/main/picture/Dataset.png)
+![Dataset imformation](./picture/Dataset.png)
