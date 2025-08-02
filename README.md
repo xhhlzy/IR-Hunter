@@ -19,3 +19,9 @@ Our experiments were conducted using Python 3.9 and PyTorch 1.11. Although other
 The dataset includes 10,242 samples from version 1.0 and 10,336 samples from version 2.0, collected from CPUs, GPUs, and AI Chips. Detailed information is shown in the figure below:
 
 ![Dataset imformation](./picture/Dataset.png)
+
+## Example Usage
+
+### Train
+
+### Test
